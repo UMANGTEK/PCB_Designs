@@ -8,5 +8,6 @@ PART 2 - Consists of sensors operating through I2C and UART, some actuators whic
 My objective while desiging this PCB was to keep microcontrollers, actuators and main power supply in same board as all actuators indivisually require independent signal from micro-controller, while I2C is a common
 signal for I2C operable devices, this reduced the wires used to connect two parts. 
 
-All the sensors used in the computer were pre fabricated, hence I did not consider the impedence while designing and worked with the default parameters. I had started working on this PCB by the end of 1-1 and wasn't 
-aware with importance of trace width and kept an arbitary value of 0.5 mm for all connections. 
+All the sensors used in the computer were pre fabricated, hence I did not consider the impedence while designing and worked with the default parameters. I had started working on this PCB by the end of 1-1 and wasn't aware with importance of trace width and kept an arbitary value of 0.5 mm for all connections. 
+
+Both the PCB's are a 2 - Layered PCB
