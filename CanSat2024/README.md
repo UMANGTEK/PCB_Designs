@@ -7,4 +7,4 @@ buck convertors were integrated in the design itself. Unlike last year, where we
 Design 2- Overall idea remained the same as design - 1 some improvements were made in connectors which made it more user friendly, and a overvoltage protection for microcontroller as also added without which the controller
 kep geeting burn due to voltage rising above 3.3V as the pins were 3.3v tolerant.
 
-This time I took care of trace width as per the current require for various components on board the flight computer which can be seen on design files.
+This time I took care of trace width as per the current requirement for various components on board the flight computer which can be seen on design files.
