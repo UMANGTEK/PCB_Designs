@@ -10,4 +10,4 @@ signal for I2C operable devices, this reduced the wires used to connect two part
 
 All the sensors used in the computer were pre fabricated, hence I did not consider the impedence while designing and worked with the default parameters. I had started working on this PCB by the end of 1-1 and wasn't aware with importance of trace width and kept an arbitary value of 0.5 mm for all connections. 
 
-Both the PCB's are a 2 - Layered PCB
+Both the PCB's are a 2 - Layered PCB, designed on free version of EAGLE software.
